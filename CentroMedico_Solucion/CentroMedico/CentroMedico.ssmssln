@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ProtectoInicial", "ProtectoInicial\ProtectoInicial.ssmssqlproj", "{57A89628-E58D-4FE9-A71C-FAE33C49833B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3610B7-0221-4F5D-828F-5C52F0FE54F9}.Default|Default.ActiveCfg = Default
+		{57A89628-E58D-4FE9-A71C-FAE33C49833B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA15C99-8D98-4D4F-A9B6-DA08FC1CEE8F}
+	EndGlobalSection
+EndGlobal

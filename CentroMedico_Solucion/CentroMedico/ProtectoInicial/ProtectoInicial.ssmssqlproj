@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ProtectoInicial">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-8JSBR6A:DESKTOP-8JSBR6A\Dario">
+          <Created>2021-03-19T21:46:34.4739697-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-8JSBR6A</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01CrearAlterarStoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01CrearAlterarStoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02CrearVariable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02CrearVariable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11EstructurasDeControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11EstructurasDeControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13PracticaStoreProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13PracticaStoreProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14ComandosShortCuts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14ComandosShortCuts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Comandos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Comandos.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
