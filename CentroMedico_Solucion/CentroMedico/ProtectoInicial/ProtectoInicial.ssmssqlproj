@@ -61,17 +61,29 @@
           <AssociatedConnUserName />
           <FullPath>15SentenciasDeEstructura.sql</FullPath>
         </FileNode>
+        <FileNode Name="17TransactionManipulacionDeDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17TransactionManipulacionDeDatos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18JoinsYUnionesEntreTablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18JoinsYUnionesEntreTablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20FuncionesDefinidasPorUsuario.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20FuncionesDefinidasPorUsuario.sql</FullPath>
+        </FileNode>
         <FileNode Name="Comandos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Comandos.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery1.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-8JSBR6A:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-8JSBR6A</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
